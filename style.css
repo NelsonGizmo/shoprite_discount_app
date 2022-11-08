@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header .logo1 {
+  position: absolute;
+}
+header .logo2 {
+  border: 5px solid white;
+  width: 310px;
+  position: relative;
+  top: 250px;
+  left: 50px;
+}
+header .nav_c {
+  padding-top: 120px;
+  padding-left: 380px;
+  font-family: "cursive";
+}
+header .nav_c h1 {
+  font-size: 3.5rem;
+  font-weight: bolder;
+  margin-bottom: 10px;
+}
+header .nav_c .sp1 {
+  border: 3px solid gold;
+  width: 50px;
+  background-color: gold;
+  font-size: 2rem;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+header .nav_c .sp1:hover {
+  color: white;
+  background-color: red;
+  border-color: red;
+  transition: all 0.3s ease-in-out;
+}
+header .nav_c .sp2 {
+  border: 3px solid gold;
+  width: 50px;
+  background-color: gold;
+  font-size: 2rem;
+}
+header .nav_c .sp2:hover {
+  color: white;
+  background-color: red;
+  border-color: red;
+  transition: all 0.3s ease-in-out;
+}
+
+main {
+  width: 100%;
+  margin: 0 20px;
+  font-family: "cursive";
+}
+main section h2 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 50px;
+}
+main section p {
+  text-align: center;
+}
+main section .items1 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+main section .items1 .card1:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items1 .card2:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items1 .card3:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items2 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+main section .items2 .card4:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items2 .card5:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items2 .card6:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items3 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+main section .items3 .card7:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items3 .card8:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items3 .card9:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items4 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+main section .items4 .card10:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items4 .card11:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main section .items4 .card12:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+main .field {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-content: center;
+}
+main .field .head {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 50px;
+}
+main .field .text {
+  align-self: center;
+  margin-left: 65px;
+}
+main .field .btn {
+  border: 3px solid gold;
+  border-radius: 10px;
+  background-color: gold;
+  font-size: 1.5rem;
+  margin-left: 550px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+}
+main .field .btn:hover {
+  color: white;
+  background-color: red;
+  border-color: red;
+  transition: all 0.4s ease-in-out;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 1.5rem;
+  font-family: "fantasy";
+  border: 1px solid gold;
+  background-color: gold;
+}
+footer .foot {
+  text-align: center;
+  font-size: 2rem;
+}
+footer .footdiv {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=style.css.map */
