@@ -395,4 +395,106 @@ footer .footdiv {
   background-color: red;
   border-color: red;
   transition: all 0.4s ease-in-out;
+}
+
+.Comcontainer {
+  width: 100%;
+  margin: 100px 0;
+  font-family: "cursive";
+  text-align: center;
+}
+.Comcontainer .button {
+  text-decoration: none;
+  border: 3px solid gold;
+  border-radius: 10px;
+  background-color: gold;
+  font-size: 1rem;
+  margin-left: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+}
+.Comcontainer .button:hover {
+  color: white;
+  background-color: red;
+  border-color: red;
+  transition: all 0.4s ease-in-out;
+}
+.Comcontainer .com1 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+.Comcontainer .com1 .c1:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com1 .c2:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com2 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+.Comcontainer .com2 .c3:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com2 .c4:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com3 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+.Comcontainer .com3 .c5:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com3 .c6:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com4 {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+.Comcontainer .com4 .c7:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+.Comcontainer .com4 .c8:hover {
+  transition: all 0.4s ease-in-out;
+  background-color: rgb(185, 181, 181);
+  box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+}
+
+.button {
+  text-decoration: none;
+  border: 3px solid gold;
+  border-radius: 10px;
+  background-color: gold;
+  font-size: 1.5rem;
+  margin-left: 550px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 200px;
+}
+.button:hover {
+  color: black;
+  background-color: red;
+  border-color: red;
+  transition: all 0.4s ease-in-out;
 }/*# sourceMappingURL=style.css.map */
