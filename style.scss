@@ -65,7 +65,7 @@ header{
         padding-left: 380px;
         font-family: 'cursive';
         h1{
-            font-size: 3.5rem;
+            font-size: 3rem;
             font-weight: bolder;
             margin-bottom: 10px;
             
@@ -290,3 +290,149 @@ footer{
         justify-content: space-between;
     }
 }
+
+.maincontainer{
+    width: 100%;
+    margin: 100px 0;
+    font-family: 'cursive';
+    
+    text-align: center;
+    .button{
+        text-decoration: none;
+        border:3px solid gold;
+        border-radius: 10px;
+        background-color: gold;
+        font-size: 1rem;
+        margin-left: 5px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 200px;
+    
+        
+        &:hover{
+            color: white;
+            background-color: red;
+            border-color: red;
+            transition: all 0.4s ease-in-out;
+            
+        }
+    }       
+
+
+
+    .item1{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+        
+
+        .cad1{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        .cad2{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        
+        
+        
+        
+    }
+    .item2{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+        
+        .cad3{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+
+
+        .cad4{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        
+    }
+    .item3{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+
+        .cad5{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        .cad6{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        
+        
+    }
+    .item4{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+
+        .cad7{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+        .cad8{
+            &:hover{
+                transition: all 0.4s ease-in-out;
+                background-color: rgb(185, 181, 181);
+                box-shadow: 3px 3px 3px 4px rgb(185, 181, 181);
+            }
+        }
+
+        
+    }
+
+   
+    
+}
+.button{
+    text-decoration: none;
+    border:3px solid gold;
+    border-radius: 10px;
+    background-color: gold;
+    font-size: 1.5rem;
+    margin-left: 550px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+
+    
+    &:hover{
+        color: black;
+        background-color: red;
+        border-color: red;
+        transition: all 0.4s ease-in-out;
+        
+    }
+}       
